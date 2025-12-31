@@ -1,6 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=b678c4&text=Im%20Jung%20In&fontColor=ffffff&section=header">
 # Hi there 👋
 
+---
+## 🧑‍💻 Experience
+
+| 연도  | 활동/역할       | 상세 내용                          |
+|-------|-----------------|-----------------------------------|
+| 202X  | 동아리/프로젝트 | 간단한 설명 (기간)               |
+| 202X  | 회사/기관       | 프로젝트명 또는 담당 업무        |
+| 202X  | 프로그램/캠프   | 참여 내용 및 성과                |
+
 
 ---
 
