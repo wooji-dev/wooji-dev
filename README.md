@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Jung-in 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm Jung-in%20text">
+## Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
