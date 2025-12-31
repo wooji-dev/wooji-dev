@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=b678c4&text=Im%20Jung%20In&fontColor=ffffff&section=header">
-## Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,6 +10,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooji-dev)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooji-dev)](https://github.com/anuraghazra/github-readme-stats)
