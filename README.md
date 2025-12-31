@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=#b678c4&text=I'm%20Jung-in">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=#b678c4&text=I'm%20Jung%20in">
 ## Hi there 👋
 
 - 🔭 I’m currently working on ...
