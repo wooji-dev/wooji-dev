@@ -1,28 +1,75 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=b678c4&text=Im%20Jung%20In&fontColor=ffffff&section=header">
-# Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=91BBF2&text=Welcome%20to%20my%20Archive&fontColor=FFFFFF&section=header&fontSize=60&rotate=0&descAlign=0&descAlignY=70&desc=Hello,%20I'm%20Jung-in😶%20">
+
+#### 🌱About me - click icons !
+
+<div style="display:flex; padding:0 15px; gap:4px;">
+	<a href="https://github.com/wwwoojung">
+		<img src="https://img.shields.io/badge/GitHub_before_2025-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+	</a>
+	<a href="https://www.notion.so/Portfolio-16e2284226cc800ea166cde819603de7" >
+		<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+	</a>
+	<a href="mailto:wooji.dev@gmail.com" >
+		<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+	</a>
+</div>
 
 ---
+
 ## 🧑‍💻 Experience
 
-| 연도  | 활동/역할       | 상세 내용                          |
-|-------|-----------------|-----------------------------------|
-| 202X  | 동아리/프로젝트 | 간단한 설명 (기간)               |
-| 202X  | 회사/기관       | 프로젝트명 또는 담당 업무        |
-| 202X  | 프로그램/캠프   | 참여 내용 및 성과                |
+| 기간              | 활동   | 상세 내용                                                                                                                                                    |
+| ----------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2025.12.29 ~      | 교육   | 신한투자증권 프로디지털아카데미 7기                                                                                                                          |
+| 2024.05 ~ 2025.12 | 경력   | (주)에코마케팅<br>자사몰 유지, 보수 및 리뉴얼<br>데이터 트래킹 스크립트 설치 및 데이터 확인(GTM, GA, 구글 애즈, 메타 등)<br>사내 서비스 UI/UX 기획 및 디자인 |
+| 2023.10 ~ 2024.03 | 교육   | 그린컴퓨터아카데미 - UI/UX 반응형 웹디자인&웹퍼블리셔 (디자인&코딩) 양성 과정 수료                                                                           |
+| 2021.03 ~ 2023.06 | 🪖경력 | 육군장교 복무 (ROTC 59기)                                                                                                                                    |
+| 2017.03 ~ 2021.02 | 🎓교육 | 경희대학교 글로벌커뮤니케이션학부 영미문화트랙                                                                                                               |
 
-
----
+<br>
 
 ## 💬 Most Used Languages
-[![Top Langs](https://github-readme-stats-amber-tau-13.vercel.app/api/top-langs/?username=wooji-dev&layout=compact&hide=html,css,scss,jupyter%20notebook&langs_count=6&theme=tokyonight&include_all_commits=true&exclude_repo=github-readme-stats,codingStudy2,codingStudy,chaesmos-django,PS)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddls7530)](https://solved.ac/wjddls7530)
-<br>
+  <div style="padding:0 15px;">
+      <img src="https://github-readme-stats-amber-tau-13.vercel.app/api/top-langs/?username=wooji-dev&layout=compact&hide=html,css,scss,jupyter%20notebook&langs_count=6&theme=tokyonight&include_all_commits=true&exclude_repo=github-readme-stats,codingStudy2,codingStudy,chaesmos-django,PS)](https://github.com/anuraghazra/github-readme-stats"/>
+  </div>
 <br>
 
 ---
-## 💬 skills
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
+## ⚙️ skills
+
+<div style="padding:0 15px;">
+	<p style="margin:0 0 6px; font-size:14px"> 🐥 I'm studying </p>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+  	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
+	<img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=flat-square&logo=flutter&logoColor=white" />
+</div>
+<br>
+<div style="padding:0 15px;">
+	<p style="margin:0 0 6px; font-size:14px"> 🧠 have used </p>
+    <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=flat-square&logo=typescript&logoColor=white" />
+	<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black" />
+	<img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+    <br>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white" />
+</div>
+<br>
+<div style="padding:0 15px;">
+	<p style="margin:0 0 6px; font-size:14px"> 🛠️ tools </p>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+	<img src="https://img.shields.io/badge/bitbucket-%230052CC.svg?&style=flat-square&logo=bitbucket&logoColor=white" />
+	<img src="https://img.shields.io/badge/atlassian-%230052CC.svg?&style=flat-square&logo=atlassian&logoColor=white" />
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=flat-square&logo=jenkins&logoColor=white" />
+	<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white" />
+</div>
+<br>
