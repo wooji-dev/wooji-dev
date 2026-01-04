@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=91BBF2&text=Welcome%20to%20my%20Archive&fontColor=FFFFFF&section=header&fontSize=60&rotate=0&descAlign=0&descAlignY=70&desc=Hello,%20I'm%20Jung-in😶%20">
 
 #### 🌱About me - click icons !
+
 <div style="display:flex; padding:0 15px; gap:4px;">
 	<a href="https://github.com/wwwoojung">
 		<img src="https://img.shields.io/badge/GitHub_before_2025-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -17,24 +18,22 @@
 
 ## 🧑‍💻 Experience
 
-| 기간                          | 활동                                  | 상세 내용                                                                                                   |
-| ---------------------------- | ------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| 2025.12.29 ~                 | 교육                  | 신한투자증권 프로디지털아카데미 7기                                                                            |
-| 2024.05 ~ 2025.12            | 경력 			       | (주)에코마케팅<br>자사몰 유지, 보수 및 리뉴얼<br>데이터 트래킹 스크립트 설치 및 데이터 확인(GTM, GA, 구글 애즈, 메타 등)<br>사내 서비스 UI/UX 기획 및 디자인 |
-| 2023.10 ~ 2024.03            | 교육                  | 그린컴퓨터아카데미 - UI/UX 반응형 웹디자인&웹퍼블리셔                                                         (디자인&코딩) 양성 과정 수료 |
-| 2021.03 ~ 2023.06            | 🪖경력                  | 육군장교 복무 (ROTC 59기)                                                                                        |
-| 2017.03 ~ 2021.02            | 🎓교육                  | 경희대학교 글로벌커뮤니케이션학부 영미문화트랙                                                                 |
-
+| 기간              | 활동   | 상세 내용                                                                                                                                                    |
+| ----------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2025.12.29 ~      | 교육   | 신한투자증권 프로디지털아카데미 7기                                                                                                                          |
+| 2024.05 ~ 2025.12 | 경력   | (주)에코마케팅<br>자사몰 유지, 보수 및 리뉴얼<br>데이터 트래킹 스크립트 설치 및 데이터 확인(GTM, GA, 구글 애즈, 메타 등)<br>사내 서비스 UI/UX 기획 및 디자인 |
+| 2023.10 ~ 2024.03 | 교육   | 그린컴퓨터아카데미 - UI/UX 반응형 웹디자인&웹퍼블리셔 (디자인&코딩) 양성 과정 수료                                                                           |
+| 2021.03 ~ 2023.06 | 🪖경력 | 육군장교 복무 (ROTC 59기)                                                                                                                                    |
+| 2017.03 ~ 2021.02 | 🎓교육 | 경희대학교 글로벌커뮤니케이션학부 영미문화트랙                                                                                                               |
 
 <br>
 
-
 ## 💬 Most Used Languages
+
   <div style="padding:0 15px;">
       <img src="https://github-readme-stats-amber-tau-13.vercel.app/api/top-langs/?username=wooji-dev&layout=compact&hide=html,css,scss,jupyter%20notebook&langs_count=6&theme=tokyonight&include_all_commits=true&exclude_repo=github-readme-stats,codingStudy2,codingStudy,chaesmos-django,PS)](https://github.com/anuraghazra/github-readme-stats"/>
   </div>
 <br>
-
 
 ---
 
