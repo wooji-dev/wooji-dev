@@ -1,10 +1,25 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=91BBF2&text=Welcome%20to%20my%20Archive&fontColor=FFFFFF&section=header&fontSize=60&rotate=0&descAlign=0&descAlignY=70&desc=Hello,%20I'm%20Jung-in😶%20">
 
-#### 🌱About me - click icons !
+<div style="text-align:center;">
+	<h3>🌱About me</h3>
+	<img src="https://img.shields.io/badge/FE_DEV-777777?style=for-the-badge&logoColor=white"/>
+	<img src="https://img.shields.io/badge/ESTJ-000000?style=for-the-badge&logoColor=white"/>
+	<p style="margin:0;">I like ✈️traveling, 📸taking picture, 🏊‍♀️swimming</p>
+	<p>In my free time, I do 🎥watching movie, 🧗‍♀️climing, 🏃‍♀️running</p>
+</div>
 
-<div style="display:flex; padding:0 15px; gap:4px;">
+<div style="display:flex; justify-content:center; gap:4px; margin: 0 0 24px 0;">
+	<img src="https://github.com/user-attachments/assets/be5c4d04-0fd9-434d-b297-d4f6c042636b" style="width:30%;"/>
+	<img src="https://github.com/user-attachments/assets/b1a4e819-4ccf-466a-8bc9-1e3b377ec458" style="width:30%;"/>
+
+</div>
+
+<div style="text-align:center;">
+	<p>🔽click icons !</p>
+</div>
+<div style="display:flex; justify-content:center; margin: 0 0 24px 0; padding:0 15px; gap:4px;">
 	<a href="https://github.com/wwwoojung">
-		<img src="https://img.shields.io/badge/GitHub_before_2025-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+		<img src="https://img.shields.io/badge/GitHub-before_2025-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 	</a>
 	<a href="https://www.notion.so/Portfolio-16e2284226cc800ea166cde819603de7" >
 		<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
@@ -12,6 +27,13 @@
 	<a href="mailto:wooji.dev@gmail.com" >
 		<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 	</a>
+</div>
+
+<p style="text-align:center;">저는 무던하고, 끈기있는 사람입니다.</p>
+
+## 🔤 Final Vocabulary
+<div style="padding:0 15px;">
+	Experience
 </div>
 
 ---
@@ -24,7 +46,7 @@
 | 2024.05 ~ 2025.12 | 경력   | (주)에코마케팅<br>자사몰 유지, 보수 및 리뉴얼<br>데이터 트래킹 스크립트 설치 및 데이터 확인(GTM, GA, 구글 애즈, 메타 등)<br>사내 서비스 UI/UX 기획 및 디자인 |
 | 2023.10 ~ 2024.03 | 교육   | 그린컴퓨터아카데미 - UI/UX 반응형 웹디자인&웹퍼블리셔 (디자인&코딩) 양성 과정 수료                                                                           |
 | 2021.03 ~ 2023.06 | 🪖경력 | 육군장교 복무 (ROTC 59기)                                                                                                                                    |
-| 2017.03 ~ 2021.02 | 🎓교육 | 경희대학교 글로벌커뮤니케이션학부 영미문화트랙                                                                                                               |
+| 2017.03 ~ 2021.02 | 🎓교육 | 경희대학교<br>글로벌커뮤니케이션학부 영미문화트랙                                                                                                               |
 
 <br>
 
@@ -73,3 +95,12 @@
 	<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white" />
 </div>
 <br>
+
+
+---
+
+## 💡 For 2026
+
+- 알고리즘
+- 자격증
+- 목표 정하기
