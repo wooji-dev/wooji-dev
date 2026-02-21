@@ -8,11 +8,11 @@
 	<p>In my free time, I do 🎥watching movie, 🧗‍♀️climing, 🏃‍♀️running</p>
 </div>
 
-<div style="display:flex; justify-content:center; gap:4px; margin: 0 0 24px 0;">
+<!-- <div style="display:flex; justify-content:center; gap:4px; margin: 0 0 24px 0;">
 	<img src="https://github.com/user-attachments/assets/be5c4d04-0fd9-434d-b297-d4f6c042636b" style="width:30%;"/>
 	<img src="https://github.com/user-attachments/assets/b1a4e819-4ccf-466a-8bc9-1e3b377ec458" style="width:30%;"/>
 
-</div>
+</div> -->
 
 <div style="text-align:center;">
 	<p>🔽click icons !</p>
