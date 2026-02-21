@@ -29,8 +29,6 @@
 	</a>
 </div>
 
-<p style="text-align:center;">저는 무던하고, 끈기있는 사람입니다.</p>
-
 ## 🔤 Final Vocabulary
 <div style="padding:0 15px;">
 	Experience
