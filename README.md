@@ -14,9 +14,6 @@
 
 </div> -->
 
-<div style="text-align:center;">
-	<p>🔽click icons !</p>
-</div>
 <div style="display:flex; justify-content:center; margin: 0 0 24px 0; padding:0 15px; gap:4px;">
 	<a href="https://github.com/wwwoojung">
 		<img src="https://img.shields.io/badge/GitHub-before_2025-181717?style=flat-square&logo=GitHub&logoColor=white"/>
