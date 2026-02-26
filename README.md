@@ -4,8 +4,8 @@
 	<h3>🌱About me</h3>
 	<img src="https://img.shields.io/badge/FE_DEV-777777?style=for-the-badge&logoColor=white"/>
 	<img src="https://img.shields.io/badge/ESTJ-000000?style=for-the-badge&logoColor=white"/>
-	<p style="margin:0;">I like ✈️traveling, 📸taking picture, 🏊‍♀️swimming</p>
-	<p>In my free time, I do 🎥watching movie, 🧗‍♀️climing, 🏃‍♀️running</p>
+	<!-- <p style="margin:0;">I like ✈️traveling, 📸taking picture, 🏊‍♀️swimming</p>
+	<p>In my free time, I do 🎥watching movie, 🧗‍♀️climing, 🏃‍♀️running</p> -->
 </div>
 
 <!-- <div style="display:flex; justify-content:center; gap:4px; margin: 0 0 24px 0;">
