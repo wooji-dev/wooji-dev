@@ -8,12 +8,6 @@
 	<p>In my free time, I do 🎥watching movie, 🧗‍♀️climing, 🏃‍♀️running</p> -->
 </div>
 
-<!-- <div style="display:flex; justify-content:center; gap:4px; margin: 0 0 24px 0;">
-	<img src="https://github.com/user-attachments/assets/be5c4d04-0fd9-434d-b297-d4f6c042636b" style="width:30%;"/>
-	<img src="https://github.com/user-attachments/assets/b1a4e819-4ccf-466a-8bc9-1e3b377ec458" style="width:30%;"/>
-
-</div> -->
-
 <div style="display:flex; justify-content:center; margin: 0 0 24px 0; padding:0 15px; gap:4px;">
 	<a href="https://github.com/wwwoojung">
 		<img src="https://img.shields.io/badge/GitHub-before_2025-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -26,12 +20,11 @@
 	</a>
 </div>
 
-## 🔤 Final Vocabulary
-<div style="padding:0 15px;">
-	Experience
-</div>
+<br>
 
 ---
+
+<br>
 
 ## 🧑‍💻 Experience
 
@@ -45,14 +38,17 @@
 
 <br>
 
-## 💬 Most Used Languages
-
-  <div style="padding:0 15px;">
+  <div style="; padding:0 15px;">
       <img src="https://github-readme-stats-amber-tau-13.vercel.app/api/top-langs/?username=wooji-dev&layout=compact&hide=html,css,scss,jupyter%20notebook&langs_count=6&theme=tokyonight&include_all_commits=true&exclude_repo=github-readme-stats,codingStudy2,codingStudy,chaesmos-django,PS)](https://github.com/anuraghazra/github-readme-stats"/>
   </div>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjddls7530)](https://solved.ac/wjddls7530)
+
 <br>
 
 ---
+
+<br>
 
 ## ⚙️ skills
 
@@ -89,13 +85,7 @@
 <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=flat-square&logo=jenkins&logoColor=white" />
 	<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white" />
 </div>
+
 <br>
 
 
----
-
-## 💡 For 2026
-
-- 알고리즘
-- 자격증
-- 목표 정하기
